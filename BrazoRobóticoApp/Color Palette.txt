@@ -1,0 +1,7 @@
+Fondo: #121212
+Paneles: #191A19
+Primario:#4054ff
+Primario Oscuro:
+Acento:
+Secundario:#5bc92e
+
