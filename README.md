@@ -6,6 +6,9 @@ Este proyecto es un programa desarrollado en C# con Windows Forms para la interf
 ## Funcionamiento
 Primeramente el programa requiere que se seleccione la tasa de baudios y el puerto COM donde esta conectada la placa Arduino para poder utilizar el brazo, el usuario puede escoger entre dos opciones de control: usar la pestaña de control manual del brazo o usar la pestaña de rutinas programables para su movimiento. La primera opción como se menciona le permite al usuario controlar manualmente cada uno de los servomotores (grados de libertad), la segunda opción sirve para definir rutinas de movimiento y ejecutarlas en un ciclo que se puede finalizar cuando se desee.
 
+## Video del programa y brazo en funcionamiento
+- https://www.youtube.com/watch?v=HPIwY38xJuQ
+
 ## Imagenes del brazo
 ![20211128_210212](https://user-images.githubusercontent.com/65438145/180367477-9f8736fa-aa8d-408f-81f1-80fc7d03bee2.jpg)
 ![20211129_224217](https://user-images.githubusercontent.com/65438145/180367564-870a7b60-fffb-4dfe-a260-c46a665cdaad.jpg)
@@ -25,9 +28,6 @@ Primeramente el programa requiere que se seleccione la tasa de baudios y el puer
 ### Ventana para creación de rutinas
 ![image](https://user-images.githubusercontent.com/65438145/180368474-5c44c36c-52c7-428d-a605-ed78243205bb.png)
 ![image](https://user-images.githubusercontent.com/65438145/180368522-ef09a335-438d-4d46-b64d-7c8989eb4e41.png)
-
-## Video del programa y brazo en funcionamiento
-- https://www.youtube.com/watch?v=HPIwY38xJuQ
 
 ## Referencias
 En cuanto a las referencias en las que se ha basado este proyecto se tiene un video donde se muestran los diferentes componentes para construir el brazo, varios videos donde se explica el código C++ asi como ciertas librerías para la manipulación de los servomotores mediante modulación por ancho de pulsos y una página web donde se muestran varios diseños de brazos robóticos:
