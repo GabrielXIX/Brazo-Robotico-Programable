@@ -1,4 +1,4 @@
-# Brazo-Robotico-Programable
+# Brazo Robotico Programable
 
 ## Descripción
 Este proyecto es un programa desarrollado en C# con Windows Forms para la interfaz gráfica que tiene como propósito controlar un brazo robótico con 5 grados de libertad construido con servomotores, un microcontrolador Arduino Uno, un modulo PCA9685, jumpers, baterías y madera.
